@@ -1,3 +1,3 @@
-a = 0
-a =input("Any number:")
-print (a)
+def d():
+    a = int(input("Any number:"))
+    print(a)
